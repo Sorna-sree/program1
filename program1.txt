@@ -1,0 +1,12 @@
+Algorithm:
+  
+              I use python for this program
+
+Step1: store the input in a list. And assign a variable 'count' as 1.
+Step2: Create a for loop which starts with 0 upto n.
+Step3: Then create an if condition (a[i]!=" ").
+       If it is true then goes to step 4.
+Step4: Create a inner loop and it starts with i+1 upto n.
+Step5: Create an if condition (a[i]==[j]).
+       If it is true then the count will increments and assign " " for a[j].
+Step6: After the inner gets stopped, print the count value and assign count as 1.
